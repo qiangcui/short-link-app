@@ -42,6 +42,10 @@ This project uses environment variables for Firebase configuration. Make sure to
 - Use `.env.example` as a template for required variables
 - All environment variables must be prefixed with `VITE_` to be accessible in the client-side code
 
+## Deploy (GitHub + Vercel)
+
+To push to GitHub and deploy the app to Vercel (frontend + Firebase backend), see **[DEPLOYMENT.md](./DEPLOYMENT.md)**.
+
 ## Firebase Setup
 
 See the following documentation files for detailed setup instructions:
